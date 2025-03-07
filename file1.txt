@@ -2,3 +2,4 @@ Hello, welcome to the session
 echo good morning
 My name is vijaya
 Learning Devops
+Python, Linux, AWS classes are completed

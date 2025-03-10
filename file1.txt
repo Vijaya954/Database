@@ -4,3 +4,4 @@ My name is vijaya
 Learning Devops
 Python, Linux, AWS classes are completed
 Remaining are Azure and CCNA
+6 months course
